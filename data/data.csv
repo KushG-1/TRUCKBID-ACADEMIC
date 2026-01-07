@@ -1,0 +1,501 @@
+id,truck_category,distance_km,traffic_level,time_of_day,is_peak_hour,pickup_area,delivery_area,base_price_npr,accepted_price_npr,price_per_km
+1,MEDIUM,5.9,Light,Afternoon,0,Gaushala,Dillibazar,700,700.0,118.64
+2,SMALL,7.5,Heavy,Morning,1,Chabahil,Budhanilkantha,400,648.86,86.51
+3,SMALL,8.3,Very Heavy,Morning,1,Baneshwor,Patan,400,774.5,93.31
+4,SMALL,10.1,Light,Afternoon,0,Bhaktapur,Baneshwor,400,400.0,39.6
+5,SMALL,11.0,Light,Afternoon,0,Dillibazar,Patan,400,405.48,36.86
+6,SMALL,6.3,Light,Night,0,Maharajgunj,Budhanilkantha,400,400.0,63.49
+7,LARGE,8.4,Medium,Afternoon,0,Swayambhu,Baneshwor,1200,1212.92,144.4
+8,SMALL,8.2,Heavy,Evening,1,Dillibazar,Budhanilkantha,400,668.48,81.52
+9,MEDIUM,9.8,Very Heavy,Morning,1,New Road,Koteshwor,700,1377.33,140.54
+10,SMALL,9.7,Very Heavy,Morning,1,Dillibazar,Swayambhu,400,761.3,78.48
+11,MEDIUM,6.3,Heavy,Morning,1,Kirtipur,Kalanki,700,1177.32,186.88
+12,SMALL,10.6,Heavy,Morning,1,Maharajgunj,Thamel,400,586.2,55.3
+13,LARGE,5.7,Very Heavy,Evening,1,Baneshwor,Lazimpat,1200,2253.09,395.28
+14,LARGE,6.1,Light,Afternoon,0,Baneshwor,Lazimpat,1200,1200.0,196.72
+15,SMALL,8.5,Medium,Afternoon,0,Swayambhu,Maharajgunj,400,455.82,53.63
+16,LARGE,8.6,Medium,Afternoon,0,Chabahil,Budhanilkantha,1200,1339.11,155.71
+17,MEDIUM,6.8,Medium,Afternoon,0,Budhanilkantha,Patan,700,771.91,113.52
+18,SMALL,8.8,Light,Night,0,Budhanilkantha,Bhaktapur,400,400.0,45.45
+19,MEDIUM,12.7,Heavy,Morning,1,New Road,Bhaktapur,700,999.84,78.73
+20,MEDIUM,9.8,Heavy,Evening,1,Maharajgunj,Chabahil,700,1152.34,117.59
+21,SMALL,8.2,Light,Night,0,Thamel,Patan,400,400.0,48.78
+22,SMALL,6.0,Heavy,Evening,1,Bhaktapur,Kalanki,400,567.72,94.62
+23,SMALL,6.2,Heavy,Morning,1,Lazimpat,Bhaktapur,400,617.93,99.67
+24,SMALL,1.5,Medium,Afternoon,0,Lazimpat,Maharajgunj,400,441.17,294.11
+25,SMALL,7.4,Light,Afternoon,0,Kirtipur,Baneshwor,400,400.0,54.05
+26,MEDIUM,6.7,Heavy,Morning,1,Dillibazar,Koteshwor,700,1053.83,157.29
+27,SMALL,11.5,Heavy,Morning,1,Swayambhu,Maharajgunj,400,587.59,51.09
+28,SMALL,9.3,Medium,Afternoon,0,Bhaktapur,Budhanilkantha,400,425.55,45.76
+29,MEDIUM,2.1,Light,Night,0,Baneshwor,Thamel,700,700.0,333.33
+30,SMALL,10.5,Light,Night,0,Budhanilkantha,Lazimpat,400,400.0,38.1
+31,SMALL,6.0,Light,Afternoon,0,Maharajgunj,Patan,400,400.0,66.67
+32,MEDIUM,9.2,Very Heavy,Morning,1,Baneshwor,Gaushala,700,1198.52,130.27
+33,MEDIUM,1.5,Very Heavy,Morning,1,Thamel,New Road,700,1293.12,862.08
+34,LARGE,11.5,Light,Afternoon,0,Gaushala,Lazimpat,1200,1200.0,104.35
+35,LARGE,5.8,Heavy,Morning,1,Swayambhu,Kalanki,1200,1967.2,339.17
+36,LARGE,11.5,Very Heavy,Morning,1,Dillibazar,Gaushala,1200,2032.52,176.74
+37,MEDIUM,17.8,Heavy,Morning,1,Patan,Budhanilkantha,700,1053.61,59.19
+38,MEDIUM,11.4,Medium,Afternoon,0,Kalanki,Chabahil,700,734.75,64.45
+39,SMALL,12.7,Light,Afternoon,0,New Road,Bhaktapur,400,419.67,33.04
+40,SMALL,8.5,Very Heavy,Evening,1,Lazimpat,Swayambhu,400,743.28,87.44
+41,SMALL,10.6,Heavy,Morning,1,Lazimpat,Baneshwor,400,596.18,56.24
+42,SMALL,8.6,Heavy,Evening,1,Patan,Gaushala,400,576.84,67.07
+43,SMALL,10.8,Heavy,Morning,1,Gaushala,Koteshwor,400,589.37,54.57
+44,SMALL,5.2,Very Heavy,Morning,1,Kalanki,Maharajgunj,400,718.2,138.12
+45,SMALL,11.1,Medium,Afternoon,0,Gaushala,Budhanilkantha,400,433.55,39.06
+46,SMALL,2.8,Heavy,Evening,1,Baneshwor,Koteshwor,400,656.48,234.46
+47,SMALL,11.9,Heavy,Evening,1,Swayambhu,Baneshwor,400,665.39,55.92
+48,SMALL,8.8,Very Heavy,Morning,1,Swayambhu,Thamel,400,653.18,74.22
+49,SMALL,5.5,Very Heavy,Evening,1,Chabahil,Patan,400,713.83,129.79
+50,SMALL,3.5,Heavy,Evening,1,New Road,Baneshwor,400,618.17,176.62
+51,SMALL,1.5,Light,Afternoon,0,Lazimpat,Maharajgunj,400,435.51,290.34
+52,LARGE,7.8,Very Heavy,Morning,1,Koteshwor,Bhaktapur,1200,2259.86,289.73
+53,MEDIUM,9.8,Heavy,Morning,1,Kirtipur,Koteshwor,700,1128.26,115.13
+54,SMALL,9.0,Heavy,Evening,1,Swayambhu,Patan,400,672.93,74.77
+55,MEDIUM,1.4,Medium,Afternoon,0,Thamel,Baneshwor,700,775.41,553.86
+56,MEDIUM,11.7,Light,Afternoon,0,Lazimpat,Gaushala,700,744.74,63.65
+57,SMALL,8.8,Light,Afternoon,0,Thamel,Kirtipur,400,422.7,48.03
+58,MEDIUM,6.0,Very Heavy,Morning,1,New Road,Chabahil,700,1224.06,204.01
+59,MEDIUM,11.4,Heavy,Evening,1,Maharajgunj,Dillibazar,700,1027.27,90.11
+60,SMALL,6.8,Very Heavy,Morning,1,Koteshwor,Kirtipur,400,760.32,111.81
+61,MEDIUM,11.7,Medium,Afternoon,0,Thamel,Lazimpat,700,812.53,69.45
+62,SMALL,8.3,Light,Afternoon,0,Dillibazar,Chabahil,400,403.84,48.66
+63,SMALL,6.0,Very Heavy,Morning,1,Bhaktapur,Dillibazar,400,762.48,127.08
+64,MEDIUM,1.9,Very Heavy,Afternoon,0,Kalanki,Koteshwor,700,983.73,517.75
+65,MEDIUM,1.7,Light,Afternoon,0,Baneshwor,Thamel,700,700.0,411.76
+66,MEDIUM,11.1,Very Heavy,Evening,1,Baneshwor,Budhanilkantha,700,1191.63,107.35
+67,SMALL,10.9,Very Heavy,Morning,1,Patan,Swayambhu,400,683.69,62.72
+68,MEDIUM,6.9,Light,Night,0,Kalanki,Patan,700,700.0,101.45
+69,MEDIUM,11.5,Very Heavy,Evening,1,Swayambhu,New Road,700,1218.24,105.93
+70,SMALL,10.3,Very Heavy,Morning,1,Chabahil,Maharajgunj,400,722.32,70.13
+71,SMALL,12.7,Light,Afternoon,0,Bhaktapur,New Road,400,400.0,31.5
+72,LARGE,5.2,Light,Night,0,Maharajgunj,Bhaktapur,1200,1200.0,230.77
+73,MEDIUM,6.8,Light,Night,0,New Road,Lazimpat,700,700.0,102.94
+74,MEDIUM,2.8,Heavy,Morning,1,Koteshwor,Baneshwor,700,1066.86,381.02
+75,SMALL,11.4,Light,Night,0,Thamel,Lazimpat,400,400.0,35.09
+76,SMALL,11.2,Medium,Afternoon,0,Maharajgunj,Swayambhu,400,423.68,37.83
+77,MEDIUM,3.0,Medium,Afternoon,0,Thamel,Baneshwor,700,772.83,257.61
+78,MEDIUM,10.2,Light,Afternoon,0,Kalanki,Maharajgunj,700,700.0,68.63
+79,SMALL,7.5,Very Heavy,Morning,1,Baneshwor,Kirtipur,400,681.54,90.87
+80,SMALL,9.0,Light,Night,0,Chabahil,Dillibazar,400,400.0,44.44
+81,LARGE,12.7,Medium,Afternoon,0,Kirtipur,Budhanilkantha,1200,1214.94,95.66
+82,MEDIUM,7.0,Medium,Afternoon,0,Baneshwor,Kirtipur,700,798.71,114.1
+83,SMALL,13.1,Light,Afternoon,0,Koteshwor,Swayambhu,400,400.0,30.53
+84,MEDIUM,9.3,Medium,Afternoon,0,Baneshwor,Maharajgunj,700,705.13,75.82
+85,SMALL,5.8,Heavy,Morning,1,Lazimpat,Gaushala,400,670.58,115.62
+86,MEDIUM,11.0,Heavy,Morning,1,Gaushala,Koteshwor,700,1052.25,95.66
+87,LARGE,9.4,Light,Afternoon,0,Budhanilkantha,Gaushala,1200,1285.41,136.75
+88,LARGE,7.2,Heavy,Morning,1,Baneshwor,Swayambhu,1200,2042.29,283.65
+89,MEDIUM,9.8,Heavy,Morning,1,Thamel,Gaushala,700,1169.08,119.29
+90,SMALL,7.0,Heavy,Evening,1,Gaushala,Dillibazar,400,649.03,92.72
+91,SMALL,1.5,Heavy,Morning,1,Lazimpat,Maharajgunj,400,620.82,413.88
+92,SMALL,1.5,Heavy,Morning,1,New Road,Thamel,400,584.79,389.86
+93,SMALL,9.2,Heavy,Evening,1,Kalanki,Baneshwor,400,645.52,70.17
+94,SMALL,10.6,Medium,Afternoon,0,Koteshwor,Bhaktapur,400,469.18,44.26
+95,MEDIUM,8.6,Heavy,Evening,1,Swayambhu,Patan,700,1170.46,136.1
+96,SMALL,8.3,Heavy,Morning,1,Patan,Baneshwor,400,628.27,75.7
+97,SMALL,6.9,Heavy,Morning,1,Bhaktapur,Gaushala,400,668.52,96.89
+98,SMALL,12.7,Heavy,Morning,1,New Road,Bhaktapur,400,634.0,49.92
+99,MEDIUM,7.4,Heavy,Evening,1,Baneshwor,Lazimpat,700,1173.0,158.51
+100,SMALL,13.5,Light,Afternoon,0,Kirtipur,Budhanilkantha,400,400.0,29.63
+101,SMALL,8.5,Very Heavy,Morning,1,Chabahil,Koteshwor,400,674.99,79.41
+102,MEDIUM,7.9,Light,Afternoon,0,Koteshwor,Bhaktapur,700,719.16,91.03
+103,MEDIUM,9.8,Medium,Afternoon,0,Dillibazar,Kalanki,700,760.5,77.6
+104,SMALL,5.9,Heavy,Morning,1,Koteshwor,Lazimpat,400,642.12,108.83
+105,MEDIUM,11.7,Very Heavy,Morning,1,Thamel,Kirtipur,700,1200.77,102.63
+106,MEDIUM,9.2,Heavy,Evening,1,Bhaktapur,Kirtipur,700,1055.4,114.72
+107,SMALL,10.4,Light,Afternoon,0,New Road,Koteshwor,400,412.74,39.69
+108,MEDIUM,5.8,Heavy,Afternoon,0,Kalanki,Swayambhu,700,913.27,157.46
+109,SMALL,9.2,Medium,Afternoon,0,Budhanilkantha,Chabahil,400,441.51,47.99
+110,SMALL,9.0,Very Heavy,Morning,1,Koteshwor,Bhaktapur,400,706.04,78.45
+111,SMALL,11.3,Very Heavy,Evening,1,Lazimpat,Kirtipur,400,658.81,58.3
+112,MEDIUM,11.7,Medium,Afternoon,0,Koteshwor,Maharajgunj,700,700.0,59.83
+113,SMALL,1.5,Heavy,Morning,1,Chabahil,Gaushala,400,597.16,398.11
+114,SMALL,2.4,Heavy,Evening,1,Thamel,Dillibazar,400,674.51,281.05
+115,SMALL,10.0,Heavy,Evening,1,Baneshwor,Kalanki,400,649.48,64.95
+116,MEDIUM,6.1,Medium,Afternoon,0,Thamel,Maharajgunj,700,716.65,117.48
+117,MEDIUM,10.0,Heavy,Morning,1,Chabahil,Patan,700,1115.63,111.56
+118,SMALL,5.3,Medium,Afternoon,0,Bhaktapur,Maharajgunj,400,406.67,76.73
+119,SMALL,5.4,Medium,Afternoon,0,Maharajgunj,Bhaktapur,400,441.75,81.81
+120,MEDIUM,9.2,Medium,Afternoon,0,Gaushala,Baneshwor,700,795.84,86.5
+121,MEDIUM,9.9,Very Heavy,Evening,1,Koteshwor,Chabahil,700,1379.05,139.3
+122,LARGE,5.1,Light,Afternoon,0,Koteshwor,Kirtipur,1200,1200.0,235.29
+123,MEDIUM,6.9,Very Heavy,Morning,1,Chabahil,Thamel,700,1240.6,179.8
+124,SMALL,10.8,Heavy,Evening,1,Dillibazar,Koteshwor,400,672.83,62.3
+125,MEDIUM,7.1,Very Heavy,Morning,1,Chabahil,Patan,700,1223.01,172.25
+126,MEDIUM,9.6,Very Heavy,Morning,1,Maharajgunj,Baneshwor,700,1379.9,143.74
+127,SMALL,7.2,Light,Afternoon,0,Patan,Gaushala,400,400.0,55.56
+128,SMALL,10.6,Very Heavy,Evening,1,Koteshwor,Dillibazar,400,705.33,66.54
+129,SMALL,8.3,Medium,Afternoon,0,Baneshwor,Patan,400,400.0,48.19
+130,SMALL,11.5,Very Heavy,Morning,1,Dillibazar,Koteshwor,400,651.04,56.61
+131,SMALL,11.4,Light,Afternoon,0,Dillibazar,Gaushala,400,412.18,36.16
+132,SMALL,10.3,Heavy,Evening,1,Kalanki,Kirtipur,400,578.13,56.13
+133,SMALL,4.8,Light,Afternoon,0,Patan,New Road,400,417.06,86.89
+134,SMALL,10.9,Medium,Afternoon,0,Budhanilkantha,New Road,400,441.57,40.51
+135,MEDIUM,8.5,Light,Night,0,Baneshwor,Bhaktapur,700,700.0,82.35
+136,SMALL,9.7,Heavy,Evening,1,Dillibazar,Chabahil,400,668.27,68.89
+137,MEDIUM,11.9,Medium,Afternoon,0,Patan,Budhanilkantha,700,747.1,62.78
+138,SMALL,6.4,Heavy,Evening,1,Maharajgunj,Kalanki,400,660.0,103.12
+139,MEDIUM,12.0,Light,Night,0,Kalanki,Dillibazar,700,700.0,58.33
+140,MEDIUM,6.5,Heavy,Morning,1,Bhaktapur,Thamel,700,1081.95,166.45
+141,SMALL,6.7,Medium,Afternoon,0,Koteshwor,Thamel,400,408.4,60.96
+142,MEDIUM,11.2,Heavy,Morning,1,New Road,Koteshwor,700,1183.6,105.68
+143,SMALL,10.4,Heavy,Morning,1,Thamel,Gaushala,400,572.82,55.08
+144,SMALL,11.8,Very Heavy,Morning,1,Swayambhu,Koteshwor,400,743.92,63.04
+145,MEDIUM,8.9,Medium,Afternoon,0,Swayambhu,Dillibazar,700,723.24,81.26
+146,LARGE,5.8,Medium,Afternoon,0,Dillibazar,Patan,1200,1251.88,215.84
+147,MEDIUM,8.8,Light,Night,0,Koteshwor,Budhanilkantha,700,700.0,79.55
+148,SMALL,8.3,Light,Afternoon,0,Chabahil,Kirtipur,400,400.0,48.19
+149,MEDIUM,10.6,Medium,Afternoon,0,Lazimpat,Patan,700,794.48,74.95
+150,LARGE,12.7,Very Heavy,Evening,1,Bhaktapur,New Road,1200,2307.31,181.68
+151,MEDIUM,5.1,Heavy,Morning,1,Kirtipur,Gaushala,700,991.08,194.33
+152,MEDIUM,7.2,Heavy,Morning,1,Budhanilkantha,Kalanki,700,1124.11,156.13
+153,SMALL,6.4,Medium,Afternoon,0,Baneshwor,Gaushala,400,474.92,74.21
+154,SMALL,2.9,Heavy,Morning,1,Swayambhu,Chabahil,400,595.18,205.23
+155,MEDIUM,11.1,Very Heavy,Evening,1,Maharajgunj,Kalanki,700,1279.46,115.27
+156,SMALL,5.2,Light,Afternoon,0,Dillibazar,Kalanki,400,400.0,76.92
+157,SMALL,7.9,Very Heavy,Evening,1,Kirtipur,Lazimpat,400,699.15,88.5
+158,MEDIUM,10.4,Very Heavy,Morning,1,Lazimpat,Kalanki,700,1323.46,127.26
+159,SMALL,8.7,Heavy,Evening,1,Patan,Dillibazar,400,564.89,64.93
+160,SMALL,11.2,Very Heavy,Morning,1,Lazimpat,Koteshwor,400,679.96,60.71
+161,LARGE,8.1,Medium,Afternoon,0,Kalanki,Budhanilkantha,1200,1309.25,161.64
+162,SMALL,6.6,Light,Afternoon,0,Lazimpat,Kirtipur,400,400.0,60.61
+163,SMALL,11.5,Light,Night,0,Swayambhu,Kirtipur,400,400.0,34.78
+164,MEDIUM,6.6,Light,Afternoon,0,New Road,Lazimpat,700,718.41,108.85
+165,SMALL,7.4,Medium,Afternoon,0,Koteshwor,Patan,400,418.8,56.59
+166,SMALL,2.4,Light,Afternoon,0,Baneshwor,Thamel,400,407.65,169.85
+167,MEDIUM,10.3,Heavy,Evening,1,Budhanilkantha,Bhaktapur,700,1135.39,110.23
+168,MEDIUM,6.1,Light,Afternoon,0,Lazimpat,Budhanilkantha,700,700.0,114.75
+169,SMALL,7.8,Medium,Afternoon,0,Gaushala,Bhaktapur,400,471.0,60.38
+170,SMALL,6.3,Medium,Afternoon,0,Koteshwor,Dillibazar,400,436.82,69.34
+171,SMALL,6.3,Light,Night,0,Budhanilkantha,Thamel,400,400.0,63.49
+172,MEDIUM,8.8,Heavy,Evening,1,Lazimpat,Budhanilkantha,700,1001.56,113.81
+173,MEDIUM,11.5,Medium,Afternoon,0,Chabahil,Thamel,700,700.0,60.87
+174,SMALL,5.3,Light,Afternoon,0,Lazimpat,Chabahil,400,437.11,82.47
+175,SMALL,8.9,Heavy,Evening,1,Thamel,Koteshwor,400,570.45,64.1
+176,SMALL,8.1,Light,Afternoon,0,Chabahil,Dillibazar,400,400.0,49.38
+177,MEDIUM,8.2,Very Heavy,Morning,1,Patan,Thamel,700,1230.39,150.05
+178,SMALL,3.5,Heavy,Morning,1,Patan,Kirtipur,400,590.18,168.62
+179,MEDIUM,3.8,Very Heavy,Morning,1,Baneshwor,Chabahil,700,1325.42,348.79
+180,MEDIUM,7.0,Light,Afternoon,0,Lazimpat,New Road,700,700.0,100.0
+181,MEDIUM,5.3,Medium,Afternoon,0,Budhanilkantha,Dillibazar,700,704.37,132.9
+182,MEDIUM,9.9,Heavy,Evening,1,Gaushala,Lazimpat,700,1168.4,118.02
+183,MEDIUM,9.0,Light,Afternoon,0,Dillibazar,Maharajgunj,700,764.31,84.92
+184,MEDIUM,8.1,Heavy,Evening,1,Chabahil,Lazimpat,700,1113.87,137.51
+185,MEDIUM,7.3,Heavy,Morning,1,Kirtipur,Kalanki,700,1103.38,151.15
+186,SMALL,7.9,Light,Afternoon,0,Dillibazar,Koteshwor,400,400.0,50.63
+187,SMALL,8.9,Medium,Afternoon,0,Patan,Bhaktapur,400,468.93,52.69
+188,MEDIUM,10.0,Light,Night,0,Patan,Swayambhu,700,700.0,70.0
+189,MEDIUM,5.7,Light,Night,0,Patan,Gaushala,700,700.0,122.81
+190,SMALL,2.8,Light,Afternoon,0,Thamel,Dillibazar,400,409.62,146.29
+191,SMALL,10.4,Light,Afternoon,0,Kirtipur,Budhanilkantha,400,403.61,38.81
+192,SMALL,6.7,Light,Afternoon,0,Swayambhu,Maharajgunj,400,400.0,59.7
+193,SMALL,1.5,Heavy,Morning,1,Gaushala,Chabahil,400,674.67,449.78
+194,MEDIUM,5.4,Heavy,Evening,1,Chabahil,Maharajgunj,700,987.2,182.81
+195,MEDIUM,6.0,Very Heavy,Morning,1,Budhanilkantha,Swayambhu,700,1276.47,212.75
+196,SMALL,7.5,Light,Afternoon,0,Gaushala,Maharajgunj,400,400.0,53.33
+197,SMALL,7.1,Medium,Afternoon,0,Dillibazar,Lazimpat,400,432.52,60.92
+198,SMALL,10.1,Medium,Afternoon,0,Kirtipur,Swayambhu,400,405.86,40.18
+199,MEDIUM,4.8,Heavy,Evening,1,Patan,New Road,700,1020.62,212.63
+200,SMALL,10.7,Medium,Afternoon,0,New Road,Kalanki,400,459.75,42.97
+201,SMALL,11.7,Light,Afternoon,0,Dillibazar,Chabahil,400,400.0,34.19
+202,MEDIUM,13.2,Light,Night,0,Chabahil,Kalanki,700,700.0,53.03
+203,SMALL,8.9,Heavy,Morning,1,Patan,Bhaktapur,400,582.01,65.39
+204,SMALL,12.7,Heavy,Evening,1,Bhaktapur,New Road,400,587.73,46.28
+205,LARGE,11.3,Very Heavy,Morning,1,Koteshwor,Dillibazar,1200,2260.29,200.03
+206,SMALL,6.1,Light,Afternoon,0,Thamel,Maharajgunj,400,427.07,70.01
+207,MEDIUM,7.4,Very Heavy,Morning,1,Swayambhu,Baneshwor,700,1200.45,162.22
+208,SMALL,5.8,Very Heavy,Afternoon,0,Kalanki,Swayambhu,400,594.31,102.47
+209,SMALL,10.3,Heavy,Morning,1,Patan,Chabahil,400,569.28,55.27
+210,MEDIUM,11.4,Light,Afternoon,0,Bhaktapur,Dillibazar,700,700.0,61.4
+211,SMALL,11.8,Medium,Afternoon,0,Chabahil,Maharajgunj,400,467.2,39.59
+212,SMALL,1.5,Light,Afternoon,0,Gaushala,Chabahil,400,431.53,287.69
+213,SMALL,7.7,Light,Afternoon,0,Kalanki,Kirtipur,400,400.0,51.95
+214,MEDIUM,2.8,Heavy,Afternoon,0,Koteshwor,Baneshwor,700,901.36,321.91
+215,MEDIUM,9.5,Medium,Afternoon,0,Bhaktapur,Swayambhu,700,733.79,77.24
+216,MEDIUM,5.5,Heavy,Evening,1,Budhanilkantha,Chabahil,700,1085.36,197.34
+217,SMALL,10.5,Very Heavy,Evening,1,Kalanki,New Road,400,718.53,68.43
+218,MEDIUM,10.8,Very Heavy,Morning,1,Budhanilkantha,Kirtipur,700,1141.5,105.69
+219,SMALL,9.2,Heavy,Morning,1,Bhaktapur,Baneshwor,400,586.71,63.77
+220,SMALL,7.6,Light,Night,0,Budhanilkantha,Gaushala,400,400.0,52.63
+221,SMALL,10.4,Very Heavy,Morning,1,Dillibazar,Kirtipur,400,776.32,74.65
+222,SMALL,2.8,Very Heavy,Morning,1,Koteshwor,Baneshwor,400,682.02,243.58
+223,SMALL,11.7,Very Heavy,Evening,1,Bhaktapur,Swayambhu,400,674.65,57.66
+224,MEDIUM,7.2,Heavy,Evening,1,Dillibazar,Lazimpat,700,1039.93,144.43
+225,SMALL,5.3,Very Heavy,Evening,1,Budhanilkantha,Kirtipur,400,680.89,128.47
+226,SMALL,11.4,Light,Afternoon,0,Thamel,Kalanki,400,422.06,37.02
+227,SMALL,11.7,Very Heavy,Morning,1,Gaushala,Patan,400,658.25,56.26
+228,SMALL,6.0,Light,Afternoon,0,Swayambhu,Patan,400,428.79,71.47
+229,MEDIUM,10.6,Light,Afternoon,0,Koteshwor,New Road,700,744.72,70.26
+230,SMALL,11.0,Medium,Afternoon,0,Kirtipur,Gaushala,400,400.0,36.36
+231,SMALL,9.5,Light,Afternoon,0,Bhaktapur,Lazimpat,400,400.0,42.11
+232,SMALL,1.5,Light,Night,0,Lazimpat,Maharajgunj,400,400.0,266.67
+233,MEDIUM,9.6,Heavy,Evening,1,Baneshwor,Kirtipur,700,1102.63,114.86
+234,LARGE,8.1,Heavy,Morning,1,Koteshwor,Maharajgunj,1200,1997.09,246.55
+235,MEDIUM,8.6,Very Heavy,Evening,1,Chabahil,Thamel,700,1151.23,133.86
+236,LARGE,9.5,Very Heavy,Morning,1,Baneshwor,Gaushala,1200,2133.74,224.6
+237,SMALL,9.8,Very Heavy,Morning,1,Patan,Lazimpat,400,781.14,79.71
+238,SMALL,5.7,Medium,Afternoon,0,Budhanilkantha,Baneshwor,400,435.97,76.49
+239,SMALL,10.5,Heavy,Morning,1,Dillibazar,Patan,400,594.62,56.63
+240,MEDIUM,7.1,Light,Afternoon,0,Bhaktapur,Dillibazar,700,750.74,105.74
+241,MEDIUM,9.9,Light,Afternoon,0,Swayambhu,Gaushala,700,700.0,70.71
+242,SMALL,11.8,Light,Afternoon,0,Dillibazar,Maharajgunj,400,400.0,33.9
+243,LARGE,6.7,Light,Night,0,Swayambhu,Maharajgunj,1200,1200.0,179.1
+244,SMALL,11.6,Medium,Afternoon,0,Gaushala,Lazimpat,400,429.08,36.99
+245,LARGE,6.6,Heavy,Morning,1,Dillibazar,Kirtipur,1200,1936.88,293.47
+246,SMALL,12.7,Heavy,Evening,1,New Road,Bhaktapur,400,627.6,49.42
+247,SMALL,11.6,Very Heavy,Morning,1,Kirtipur,Koteshwor,400,720.05,62.07
+248,MEDIUM,4.8,Medium,Afternoon,0,Patan,New Road,700,813.51,169.48
+249,LARGE,10.6,Very Heavy,Morning,1,Kalanki,Kirtipur,1200,2153.96,203.2
+250,MEDIUM,7.0,Medium,Afternoon,0,Swayambhu,Maharajgunj,700,820.6,117.23
+251,SMALL,6.5,Heavy,Morning,1,Thamel,Chabahil,400,620.6,95.48
+252,SMALL,3.8,Medium,Afternoon,0,Chabahil,Baneshwor,400,446.69,117.55
+253,SMALL,6.6,Very Heavy,Morning,1,Koteshwor,Thamel,400,660.72,100.11
+254,SMALL,6.3,Light,Afternoon,0,Lazimpat,Bhaktapur,400,405.68,64.39
+255,MEDIUM,10.9,Light,Night,0,Gaushala,Lazimpat,700,700.0,64.22
+256,MEDIUM,8.4,Light,Night,0,Lazimpat,Budhanilkantha,700,700.0,83.33
+257,SMALL,5.9,Light,Night,0,Budhanilkantha,Patan,400,400.0,67.8
+258,SMALL,6.3,Heavy,Morning,1,Maharajgunj,Swayambhu,400,644.23,102.26
+259,SMALL,9.4,Light,Night,0,Swayambhu,Budhanilkantha,400,400.0,42.55
+260,SMALL,1.7,Medium,Afternoon,0,Thamel,Dillibazar,400,407.7,239.82
+261,SMALL,6.6,Medium,Afternoon,0,Thamel,Koteshwor,400,401.75,60.87
+262,SMALL,9.4,Heavy,Morning,1,Koteshwor,Gaushala,400,659.68,70.18
+263,SMALL,5.2,Medium,Afternoon,0,Bhaktapur,Baneshwor,400,461.33,88.72
+264,SMALL,11.2,Heavy,Evening,1,Baneshwor,Swayambhu,400,647.58,57.82
+265,MEDIUM,8.2,Very Heavy,Morning,1,New Road,Kirtipur,700,1191.93,145.36
+266,SMALL,9.8,Heavy,Evening,1,Swayambhu,Bhaktapur,400,567.09,57.87
+267,SMALL,3.5,Heavy,Afternoon,0,New Road,Baneshwor,400,473.03,135.15
+268,MEDIUM,11.2,Heavy,Evening,1,Gaushala,Budhanilkantha,700,1152.92,102.94
+269,SMALL,2.9,Heavy,Morning,1,Swayambhu,Chabahil,400,681.41,234.97
+270,LARGE,1.9,Heavy,Morning,1,Koteshwor,Kalanki,1200,1985.66,1045.08
+271,MEDIUM,7.1,Medium,Afternoon,0,Lazimpat,Dillibazar,700,771.8,108.7
+272,MEDIUM,10.0,Very Heavy,Evening,1,Gaushala,Patan,700,1268.67,126.87
+273,SMALL,7.0,Medium,Afternoon,0,Gaushala,Koteshwor,400,441.93,63.13
+274,MEDIUM,7.5,Light,Afternoon,0,New Road,Lazimpat,700,728.86,97.18
+275,MEDIUM,2.8,Very Heavy,Afternoon,0,Baneshwor,Koteshwor,700,1083.24,386.87
+276,SMALL,2.8,Heavy,Morning,1,Koteshwor,Baneshwor,400,615.31,219.75
+277,SMALL,9.3,Light,Night,0,Chabahil,Dillibazar,400,400.0,43.01
+278,LARGE,12.7,Light,Afternoon,0,New Road,Bhaktapur,1200,1200.0,94.49
+279,LARGE,6.9,Light,Afternoon,0,Kirtipur,Chabahil,1200,1200.0,173.91
+280,MEDIUM,5.9,Light,Afternoon,0,Swayambhu,New Road,700,700.0,118.64
+281,MEDIUM,10.8,Very Heavy,Evening,1,New Road,Kirtipur,700,1321.19,122.33
+282,LARGE,5.7,Very Heavy,Morning,1,Koteshwor,Lazimpat,1200,1953.55,342.73
+283,SMALL,9.6,Heavy,Evening,1,Bhaktapur,Gaushala,400,602.83,62.79
+284,SMALL,8.6,Very Heavy,Evening,1,Lazimpat,Baneshwor,400,746.74,86.83
+285,SMALL,7.3,Light,Afternoon,0,Baneshwor,Gaushala,400,400.0,54.79
+286,MEDIUM,6.9,Very Heavy,Evening,1,New Road,Swayambhu,700,1285.0,186.23
+287,SMALL,6.3,Medium,Afternoon,0,Chabahil,Budhanilkantha,400,482.65,76.61
+288,MEDIUM,7.8,Light,Night,0,Maharajgunj,Baneshwor,700,700.0,89.74
+289,MEDIUM,7.8,Medium,Afternoon,0,Maharajgunj,Bhaktapur,700,718.64,92.13
+290,SMALL,5.2,Very Heavy,Morning,1,Koteshwor,Lazimpat,400,658.25,126.59
+291,SMALL,9.7,Light,Afternoon,0,Thamel,Budhanilkantha,400,400.0,41.24
+292,SMALL,10.6,Very Heavy,Evening,1,Koteshwor,New Road,400,692.48,65.33
+293,SMALL,8.4,Light,Night,0,Budhanilkantha,Swayambhu,400,400.0,47.62
+294,SMALL,5.5,Very Heavy,Morning,1,Dillibazar,Kirtipur,400,743.79,135.23
+295,SMALL,9.6,Heavy,Evening,1,Thamel,Maharajgunj,400,591.13,61.58
+296,LARGE,6.2,Heavy,Evening,1,New Road,Kirtipur,1200,2050.12,330.66
+297,SMALL,11.6,Light,Afternoon,0,Maharajgunj,Chabahil,400,400.0,34.48
+298,MEDIUM,5.3,Very Heavy,Evening,1,Chabahil,Kirtipur,700,1152.65,217.48
+299,SMALL,11.2,Medium,Afternoon,0,Kalanki,New Road,400,455.41,40.66
+300,MEDIUM,7.6,Medium,Afternoon,0,Kalanki,Gaushala,700,703.96,92.63
+301,SMALL,5.6,Medium,Afternoon,0,Baneshwor,Maharajgunj,400,417.63,74.58
+302,SMALL,8.9,Medium,Afternoon,0,Patan,Bhaktapur,400,408.04,45.85
+303,LARGE,6.3,Very Heavy,Morning,1,Swayambhu,New Road,1200,2009.44,318.96
+304,SMALL,3.8,Heavy,Morning,1,Baneshwor,Chabahil,400,625.45,164.59
+305,SMALL,3.4,Medium,Afternoon,0,Thamel,Baneshwor,400,439.76,129.34
+306,SMALL,3.4,Very Heavy,Evening,1,Dillibazar,Thamel,400,773.42,227.48
+307,MEDIUM,5.1,Very Heavy,Evening,1,Thamel,Chabahil,700,1289.54,252.85
+308,SMALL,11.6,Heavy,Evening,1,Baneshwor,Kalanki,400,583.89,50.34
+309,SMALL,12.7,Light,Night,0,Bhaktapur,New Road,400,400.0,31.5
+310,SMALL,11.8,Heavy,Morning,1,Kirtipur,Koteshwor,400,629.09,53.31
+311,MEDIUM,11.6,Light,Afternoon,0,Chabahil,Kalanki,700,760.54,65.56
+312,SMALL,9.9,Very Heavy,Morning,1,Lazimpat,Chabahil,400,700.14,70.72
+313,MEDIUM,6.8,Very Heavy,Morning,1,Chabahil,Thamel,700,1136.33,167.11
+314,SMALL,6.9,Heavy,Morning,1,Budhanilkantha,New Road,400,606.2,87.86
+315,SMALL,3.5,Heavy,Afternoon,0,New Road,Baneshwor,400,548.64,156.75
+316,SMALL,12.0,Heavy,Morning,1,Baneshwor,Maharajgunj,400,650.44,54.2
+317,SMALL,3.0,Heavy,Morning,1,Dillibazar,New Road,400,631.3,210.43
+318,SMALL,3.2,Very Heavy,Evening,1,Thamel,Dillibazar,400,751.97,234.99
+319,MEDIUM,2.7,Light,Afternoon,0,Baneshwor,Dillibazar,700,700.0,259.26
+320,SMALL,11.3,Very Heavy,Morning,1,Kirtipur,Swayambhu,400,758.68,67.14
+321,SMALL,6.9,Medium,Afternoon,0,Gaushala,Thamel,400,435.47,63.11
+322,SMALL,1.5,Very Heavy,Evening,1,Thamel,New Road,400,694.58,463.05
+323,SMALL,9.2,Very Heavy,Morning,1,Bhaktapur,Budhanilkantha,400,791.98,86.08
+324,SMALL,5.6,Very Heavy,Evening,1,Chabahil,Patan,400,654.59,116.89
+325,SMALL,2.8,Heavy,Morning,1,Baneshwor,Koteshwor,400,562.9,201.04
+326,SMALL,10.5,Light,Night,0,New Road,Kirtipur,400,400.0,38.1
+327,SMALL,12.7,Heavy,Evening,1,New Road,Bhaktapur,400,618.22,48.68
+328,SMALL,7.7,Light,Night,0,Bhaktapur,Dillibazar,400,400.0,51.95
+329,MEDIUM,5.7,Very Heavy,Morning,1,Maharajgunj,Thamel,700,1252.6,219.75
+330,SMALL,6.7,Heavy,Evening,1,Koteshwor,Chabahil,400,576.28,86.01
+331,SMALL,8.2,Heavy,Evening,1,Dillibazar,Gaushala,400,618.27,75.4
+332,MEDIUM,5.2,Very Heavy,Morning,1,Patan,Lazimpat,700,1274.4,245.08
+333,SMALL,8.7,Light,Afternoon,0,Baneshwor,Gaushala,400,400.0,45.98
+334,SMALL,10.0,Light,Afternoon,0,Budhanilkantha,Kirtipur,400,400.0,40.0
+335,SMALL,11.8,Heavy,Morning,1,Swayambhu,Gaushala,400,576.44,48.85
+336,MEDIUM,7.1,Very Heavy,Evening,1,Bhaktapur,Budhanilkantha,700,1255.48,176.83
+337,SMALL,12.7,Very Heavy,Morning,1,New Road,Bhaktapur,400,750.39,59.09
+338,MEDIUM,9.1,Medium,Afternoon,0,Thamel,Patan,700,709.92,78.01
+339,MEDIUM,6.8,Heavy,Evening,1,Lazimpat,Thamel,700,1177.95,173.23
+340,SMALL,9.3,Medium,Afternoon,0,Kalanki,Dillibazar,400,413.75,44.49
+341,SMALL,11.8,Very Heavy,Morning,1,Koteshwor,Swayambhu,400,790.1,66.96
+342,MEDIUM,8.3,Light,Afternoon,0,Dillibazar,Budhanilkantha,700,700.0,84.34
+343,SMALL,9.1,Very Heavy,Morning,1,Gaushala,Thamel,400,694.45,76.31
+344,MEDIUM,10.9,Medium,Afternoon,0,Dillibazar,Lazimpat,700,739.0,67.8
+345,SMALL,2.9,Light,Night,0,Swayambhu,Chabahil,400,400.0,137.93
+346,SMALL,8.5,Medium,Afternoon,0,Kirtipur,Chabahil,400,406.52,47.83
+347,SMALL,10.0,Very Heavy,Morning,1,Koteshwor,Bhaktapur,400,664.27,66.43
+348,MEDIUM,6.7,Light,Night,0,Lazimpat,Gaushala,700,700.0,104.48
+349,MEDIUM,6.5,Light,Afternoon,0,Gaushala,Dillibazar,700,735.42,113.14
+350,MEDIUM,8.7,Very Heavy,Evening,1,Patan,Gaushala,700,1242.31,142.79
+351,MEDIUM,8.9,Heavy,Morning,1,Patan,Bhaktapur,700,1185.86,133.24
+352,SMALL,5.4,Light,Afternoon,0,Koteshwor,Kirtipur,400,400.0,74.07
+353,LARGE,10.4,Very Heavy,Evening,1,Maharajgunj,Budhanilkantha,1200,2127.53,204.57
+354,MEDIUM,8.1,Very Heavy,Morning,1,Gaushala,New Road,700,1236.92,152.71
+355,SMALL,5.7,Light,Afternoon,0,New Road,Swayambhu,400,400.0,70.18
+356,MEDIUM,5.9,Light,Night,0,Swayambhu,Maharajgunj,700,700.0,118.64
+357,SMALL,8.1,Heavy,Morning,1,Thamel,Kirtipur,400,662.36,81.77
+358,MEDIUM,6.6,Light,Afternoon,0,New Road,Koteshwor,700,738.77,111.93
+359,MEDIUM,7.2,Medium,Afternoon,0,Dillibazar,Chabahil,700,702.13,97.52
+360,MEDIUM,6.0,Light,Afternoon,0,Dillibazar,Budhanilkantha,700,700.0,116.67
+361,MEDIUM,9.3,Light,Night,0,Gaushala,Kalanki,700,700.0,75.27
+362,LARGE,6.3,Very Heavy,Morning,1,Bhaktapur,Kalanki,1200,2248.62,356.92
+363,SMALL,9.6,Very Heavy,Morning,1,Maharajgunj,Dillibazar,400,777.86,81.03
+364,SMALL,9.7,Heavy,Morning,1,Maharajgunj,Koteshwor,400,596.75,61.52
+365,LARGE,5.1,Heavy,Evening,1,Bhaktapur,Gaushala,1200,1689.85,331.34
+366,MEDIUM,10.3,Medium,Afternoon,0,Kirtipur,Lazimpat,700,770.85,74.84
+367,SMALL,10.9,Heavy,Evening,1,Budhanilkantha,Lazimpat,400,612.24,56.17
+368,MEDIUM,7.8,Very Heavy,Morning,1,Budhanilkantha,Dillibazar,700,1226.82,157.28
+369,MEDIUM,7.2,Heavy,Evening,1,Koteshwor,Kirtipur,700,1164.87,161.79
+370,SMALL,8.1,Medium,Afternoon,0,Kalanki,Lazimpat,400,453.02,55.93
+371,SMALL,9.4,Light,Night,0,Swayambhu,Baneshwor,400,400.0,42.55
+372,SMALL,10.1,Very Heavy,Evening,1,Maharajgunj,Bhaktapur,400,782.19,77.44
+373,SMALL,5.4,Light,Afternoon,0,Chabahil,Kirtipur,400,415.46,76.94
+374,SMALL,9.1,Very Heavy,Evening,1,Kalanki,Lazimpat,400,788.65,86.66
+375,LARGE,14.1,Light,Afternoon,0,Gaushala,Swayambhu,1200,1200.0,85.11
+376,MEDIUM,11.7,Medium,Afternoon,0,Patan,Maharajgunj,700,718.87,61.44
+377,MEDIUM,7.2,Heavy,Morning,1,Budhanilkantha,Patan,700,1078.1,149.74
+378,SMALL,1.5,Light,Afternoon,0,Chabahil,Gaushala,400,402.45,268.3
+379,MEDIUM,5.7,Medium,Afternoon,0,Thamel,Lazimpat,700,733.91,128.76
+380,SMALL,15.6,Very Heavy,Morning,1,Kirtipur,Budhanilkantha,400,751.02,48.14
+381,MEDIUM,2.9,Light,Afternoon,0,Swayambhu,Chabahil,700,724.3,249.76
+382,SMALL,9.5,Heavy,Evening,1,Gaushala,Bhaktapur,400,576.78,60.71
+383,SMALL,10.5,Light,Afternoon,0,Patan,Lazimpat,400,405.45,38.61
+384,SMALL,8.1,Very Heavy,Morning,1,Lazimpat,Patan,400,684.1,84.46
+385,LARGE,11.4,Very Heavy,Evening,1,Budhanilkantha,Gaushala,1200,1945.25,170.64
+386,LARGE,5.8,Very Heavy,Afternoon,0,Kalanki,Swayambhu,1200,1804.72,311.16
+387,MEDIUM,7.5,Medium,Afternoon,0,Kirtipur,Baneshwor,700,758.3,101.11
+388,SMALL,6.9,Very Heavy,Evening,1,New Road,Budhanilkantha,400,743.34,107.73
+389,LARGE,5.3,Very Heavy,Evening,1,Budhanilkantha,Bhaktapur,1200,2271.56,428.6
+390,SMALL,5.2,Heavy,Evening,1,Swayambhu,Maharajgunj,400,619.9,119.21
+391,SMALL,5.1,Heavy,Evening,1,Dillibazar,Patan,400,596.96,117.05
+392,SMALL,2.8,Heavy,Evening,1,Koteshwor,Baneshwor,400,590.55,210.91
+393,SMALL,5.8,Heavy,Afternoon,0,Swayambhu,Kalanki,400,533.3,91.95
+394,MEDIUM,6.9,Light,Afternoon,0,Kirtipur,Gaushala,700,700.0,101.45
+395,LARGE,6.2,Heavy,Morning,1,Koteshwor,Dillibazar,1200,1825.64,294.46
+396,SMALL,5.0,Light,Night,0,New Road,Koteshwor,400,400.0,80.0
+397,SMALL,6.4,Very Heavy,Morning,1,Koteshwor,Thamel,400,787.35,123.02
+398,LARGE,5.0,Light,Afternoon,0,Dillibazar,Patan,1200,1301.06,260.21
+399,SMALL,8.6,Light,Night,0,Kirtipur,Swayambhu,400,400.0,46.51
+400,MEDIUM,8.1,Light,Afternoon,0,Chabahil,Lazimpat,700,707.22,87.31
+401,MEDIUM,7.5,Medium,Afternoon,0,Gaushala,Dillibazar,700,739.53,98.6
+402,SMALL,3.5,Very Heavy,Evening,1,Kirtipur,Patan,400,729.87,208.53
+403,SMALL,9.1,Medium,Afternoon,0,Bhaktapur,Kalanki,400,427.99,47.03
+404,SMALL,7.8,Heavy,Morning,1,Chabahil,Bhaktapur,400,681.2,87.33
+405,MEDIUM,3.5,Very Heavy,Afternoon,0,New Road,Baneshwor,700,1130.65,323.04
+406,SMALL,10.3,Very Heavy,Morning,1,Koteshwor,Gaushala,400,752.91,73.1
+407,SMALL,9.7,Heavy,Morning,1,Patan,Lazimpat,400,575.81,59.36
+408,SMALL,8.7,Very Heavy,Morning,1,Koteshwor,Thamel,400,755.52,86.84
+409,SMALL,6.4,Very Heavy,Morning,1,Lazimpat,Thamel,400,713.99,111.56
+410,SMALL,10.0,Light,Afternoon,0,Chabahil,Budhanilkantha,400,422.87,42.29
+411,MEDIUM,2.5,Light,Night,0,Baneshwor,Thamel,700,700.0,280.0
+412,SMALL,3.3,Light,Night,0,New Road,Dillibazar,400,400.0,121.21
+413,SMALL,9.3,Medium,Afternoon,0,Gaushala,Kirtipur,400,414.92,44.62
+414,MEDIUM,8.7,Medium,Afternoon,0,Dillibazar,Kalanki,700,828.79,95.26
+415,LARGE,7.6,Heavy,Evening,1,Kirtipur,Thamel,1200,1979.28,260.43
+416,SMALL,7.9,Medium,Afternoon,0,New Road,Lazimpat,400,480.59,60.83
+417,SMALL,1.1,Light,Night,0,Thamel,Baneshwor,400,400.0,363.64
+418,MEDIUM,9.0,Very Heavy,Evening,1,Dillibazar,Chabahil,700,1325.2,147.24
+419,SMALL,12.7,Heavy,Morning,1,New Road,Bhaktapur,400,605.59,47.68
+420,SMALL,5.9,Light,Afternoon,0,Kirtipur,Kalanki,400,400.0,67.8
+421,SMALL,9.9,Light,Afternoon,0,Baneshwor,Bhaktapur,400,400.0,40.4
+422,MEDIUM,7.2,Very Heavy,Morning,1,Maharajgunj,Budhanilkantha,700,1302.72,180.93
+423,SMALL,8.3,Light,Afternoon,0,Baneshwor,Patan,400,400.0,48.19
+424,SMALL,8.3,Very Heavy,Morning,1,Budhanilkantha,New Road,400,720.15,86.77
+425,SMALL,6.2,Heavy,Morning,1,Budhanilkantha,Bhaktapur,400,681.44,109.91
+426,MEDIUM,6.0,Very Heavy,Morning,1,Swayambhu,Patan,700,1197.28,199.55
+427,SMALL,8.6,Light,Afternoon,0,Kirtipur,Maharajgunj,400,439.04,51.05
+428,SMALL,7.9,Medium,Afternoon,0,New Road,Budhanilkantha,400,448.57,56.78
+429,SMALL,6.3,Heavy,Morning,1,Thamel,Chabahil,400,620.5,98.49
+430,SMALL,9.2,Light,Afternoon,0,Bhaktapur,Thamel,400,400.0,43.48
+431,SMALL,5.4,Heavy,Morning,1,Budhanilkantha,Patan,400,682.65,126.42
+432,SMALL,10.2,Light,Night,0,Gaushala,Dillibazar,400,400.0,39.22
+433,SMALL,5.5,Medium,Afternoon,0,Bhaktapur,Baneshwor,400,411.67,74.85
+434,SMALL,9.3,Very Heavy,Evening,1,Gaushala,Baneshwor,400,653.24,70.24
+435,SMALL,5.4,Very Heavy,Morning,1,Gaushala,Koteshwor,400,680.55,126.03
+436,SMALL,9.0,Very Heavy,Morning,1,Bhaktapur,Koteshwor,400,781.98,86.89
+437,MEDIUM,5.7,Light,Night,0,Gaushala,Koteshwor,700,700.0,122.81
+438,MEDIUM,5.4,Heavy,Morning,1,Gaushala,Koteshwor,700,1127.91,208.87
+439,SMALL,1.5,Very Heavy,Morning,1,Thamel,New Road,400,717.91,478.61
+440,SMALL,3.8,Medium,Afternoon,0,Chabahil,Baneshwor,400,456.4,120.11
+441,SMALL,11.0,Medium,Afternoon,0,Baneshwor,Kirtipur,400,449.24,40.84
+442,MEDIUM,7.3,Light,Afternoon,0,Thamel,Kalanki,700,700.0,95.89
+443,SMALL,11.4,Very Heavy,Morning,1,Lazimpat,Swayambhu,400,732.45,64.25
+444,SMALL,3.8,Light,Night,0,Chabahil,Baneshwor,400,400.0,105.26
+445,MEDIUM,9.9,Heavy,Evening,1,Budhanilkantha,Koteshwor,700,987.11,99.71
+446,SMALL,1.9,Light,Afternoon,0,Thamel,Dillibazar,400,400.0,210.53
+447,SMALL,8.3,Medium,Afternoon,0,Bhaktapur,Thamel,400,447.01,53.86
+448,SMALL,11.9,Heavy,Evening,1,Lazimpat,Gaushala,400,580.45,48.78
+449,MEDIUM,11.4,Heavy,Morning,1,Gaushala,Maharajgunj,700,1076.28,94.41
+450,SMALL,6.4,Very Heavy,Morning,1,Kirtipur,Maharajgunj,400,654.27,102.23
+451,SMALL,11.1,Very Heavy,Evening,1,Budhanilkantha,Baneshwor,400,686.54,61.85
+452,SMALL,8.5,Heavy,Evening,1,Budhanilkantha,Kirtipur,400,630.55,74.18
+453,SMALL,8.7,Light,Afternoon,0,Thamel,Budhanilkantha,400,401.31,46.13
+454,LARGE,11.5,Heavy,Evening,1,Kirtipur,Kalanki,1200,1790.97,155.74
+455,SMALL,7.9,Heavy,Morning,1,Chabahil,Patan,400,636.58,80.58
+456,SMALL,2.8,Very Heavy,Morning,1,Koteshwor,Baneshwor,400,690.47,246.6
+457,MEDIUM,5.8,Heavy,Morning,1,Swayambhu,Kalanki,700,1093.24,188.49
+458,SMALL,6.8,Heavy,Morning,1,Chabahil,Budhanilkantha,400,616.24,90.62
+459,MEDIUM,7.8,Very Heavy,Morning,1,Thamel,Swayambhu,700,1296.97,166.28
+460,SMALL,6.0,Light,Afternoon,0,New Road,Maharajgunj,400,423.98,70.66
+461,SMALL,5.3,Medium,Afternoon,0,Kirtipur,Lazimpat,400,433.62,81.82
+462,SMALL,8.6,Medium,Afternoon,0,Kalanki,Thamel,400,476.95,55.46
+463,MEDIUM,9.1,Light,Afternoon,0,Kirtipur,New Road,700,757.97,83.29
+464,MEDIUM,5.4,Heavy,Morning,1,Swayambhu,Gaushala,700,1107.9,205.17
+465,SMALL,9.5,Medium,Afternoon,0,Kalanki,Thamel,400,405.52,42.69
+466,SMALL,9.2,Heavy,Evening,1,Chabahil,Kirtipur,400,570.95,62.06
+467,SMALL,7.9,Medium,Afternoon,0,Thamel,Koteshwor,400,414.72,52.5
+468,SMALL,11.1,Very Heavy,Evening,1,New Road,Kalanki,400,707.47,63.74
+469,SMALL,11.6,Light,Afternoon,0,Chabahil,Bhaktapur,400,400.0,34.48
+470,SMALL,1.5,Light,Night,0,New Road,Thamel,400,400.0,266.67
+471,SMALL,2.0,Very Heavy,Evening,1,Thamel,Dillibazar,400,770.78,385.39
+472,SMALL,3.3,Medium,Afternoon,0,Thamel,Baneshwor,400,441.65,133.83
+473,MEDIUM,14.6,Heavy,Evening,1,Chabahil,Kalanki,700,1081.2,74.05
+474,LARGE,1.5,Light,Afternoon,0,Maharajgunj,Lazimpat,1200,1200.0,800.0
+475,LARGE,9.0,Light,Afternoon,0,Koteshwor,Dillibazar,1200,1246.49,138.5
+476,MEDIUM,5.8,Heavy,Morning,1,Patan,Kalanki,700,1117.36,192.65
+477,SMALL,8.8,Heavy,Morning,1,Chabahil,New Road,400,600.04,68.19
+478,MEDIUM,1.9,Heavy,Morning,1,Kalanki,Koteshwor,700,1176.26,619.08
+479,SMALL,8.1,Light,Night,0,Bhaktapur,Budhanilkantha,400,400.0,49.38
+480,LARGE,8.1,Heavy,Morning,1,Patan,Chabahil,1200,1923.13,237.42
+481,SMALL,11.6,Heavy,Morning,1,Baneshwor,Maharajgunj,400,629.45,54.26
+482,SMALL,14.5,Light,Night,0,Patan,Budhanilkantha,400,400.0,27.59
+483,SMALL,8.3,Very Heavy,Morning,1,Lazimpat,Bhaktapur,400,732.45,88.25
+484,SMALL,9.0,Very Heavy,Morning,1,Kirtipur,Baneshwor,400,732.95,81.44
+485,SMALL,9.4,Light,Afternoon,0,Thamel,Kirtipur,400,400.67,42.62
+486,SMALL,8.9,Very Heavy,Morning,1,Bhaktapur,Patan,400,776.81,87.28
+487,MEDIUM,10.5,Very Heavy,Morning,1,Kalanki,Chabahil,700,1381.34,131.56
+488,MEDIUM,11.3,Light,Afternoon,0,Koteshwor,Kirtipur,700,700.0,61.95
+489,SMALL,10.6,Light,Night,0,Gaushala,Kalanki,400,400.0,37.74
+490,SMALL,10.7,Heavy,Morning,1,Patan,Lazimpat,400,593.21,55.44
+491,SMALL,7.0,Light,Afternoon,0,Kalanki,New Road,400,425.61,60.8
+492,SMALL,8.4,Light,Afternoon,0,Chabahil,Kirtipur,400,400.0,47.62
+493,SMALL,9.1,Very Heavy,Morning,1,Bhaktapur,Kalanki,400,690.73,75.9
+494,LARGE,9.9,Heavy,Evening,1,Gaushala,Lazimpat,1200,2046.28,206.69
+495,MEDIUM,11.2,Light,Afternoon,0,New Road,Kalanki,700,700.0,62.5
+496,MEDIUM,7.8,Very Heavy,Morning,1,Kalanki,Maharajgunj,700,1201.26,154.01
+497,SMALL,9.2,Medium,Afternoon,0,Gaushala,Kirtipur,400,476.97,51.84
+498,SMALL,10.9,Heavy,Morning,1,Swayambhu,Maharajgunj,400,620.72,56.95
+499,MEDIUM,9.3,Very Heavy,Morning,1,Koteshwor,Chabahil,700,1306.5,140.48
+500,MEDIUM,11.8,Heavy,Evening,1,Baneshwor,Gaushala,700,1045.74,88.62

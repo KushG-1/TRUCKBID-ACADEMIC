@@ -1,7 +1,5 @@
-# Updated section in data_generator.py
-"""
-Complete Kathmandu Truck Data Generator with REAL prices
-"""
+#Complete Kathmandu Truck Data Generator with REAL prices
+
 import pandas as pd
 import numpy as np
 import random
@@ -238,7 +236,7 @@ def generate_kathmandu_data(num_samples=500):
     df = pd.DataFrame(data)
     
     # Save to CSV
-    filename = 'data.csv'
+    filename = 'data/data.csv'
     df.to_csv(filename, index=False)
     
     print_summary(df)

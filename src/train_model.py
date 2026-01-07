@@ -13,7 +13,7 @@ import seaborn as sns
 
 # 1. LOAD YOUR GENERATED DATA
 try:
-    df = pd.read_csv('data.csv')
+    df = pd.read_csv('data/data.csv')
 except FileNotFoundError:
     print("❌ Dataset not found! Check filename.")
 
