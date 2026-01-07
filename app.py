@@ -11,6 +11,8 @@ from plotly.subplots import make_subplots
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+from src.ktm_distances import get_all_areas, get_distance
+
 # Set page configuration
 st.set_page_config(
     page_title="Kathmandu Truck Pricing Model",
@@ -105,14 +107,27 @@ def main():
         st.markdown('<h3 class="sub-header">📋 Trip Details</h3>', unsafe_allow_html=True)
         
         # Input fields
-        distance = st.number_input(
-            "Distance (km)",
-            min_value=1.0,
-            max_value=100.0,
-            value=10.0,
-            step=0.5,
-            help="Enter the distance of the trip in kilometers"
-        )
+        
+        # distance = st.number_input(
+        #     "Distance (km)",
+        #     min_value=1.0,
+        #     max_value=100.0,
+        #     value=10.0,
+        #     step=0.5,
+        #     help="Enter the distance of the trip in kilometers"
+        # )
+
+        # Pickup location
+        pickup_location = st.selectbox("📍 Pickup Location", options=get_all_areas(), index=0)
+
+    # Drop location  
+        drop_location = st.selectbox("📦 Delivery Location", options=get_all_areas(), index=4)
+
+    # Auto-calculate distance using YOUR function
+        distance = get_distance(pickup_location, drop_location)
+        st.success(f"📏 **Distance: {distance:.1f} km**")
+        st.info(f"**Route:** {pickup_location} → {drop_location}")
+
         
         truck_category = st.selectbox(
             "Truck Category",
